@@ -4,11 +4,11 @@ Picascii
 Ascii Drawing Command Line Utility
 The Draw utility can read from stdin:
 
-   cat input.txt | ./draw.py
+   cat smaple_input.txt | ./draw.py
 
 Or read a command file:
 
-    ./draw.py --input=input.txt
+    ./draw.py --input=sample_input.txt
 
 Or read user input:
 
